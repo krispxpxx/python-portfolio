@@ -23,4 +23,4 @@
 | iPhone 13 | 50 000 ₽ |
 
 ## Контакты
-- Telegram: @твой_ник
+- Telegram: @Derilzar
