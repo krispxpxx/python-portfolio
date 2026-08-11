@@ -3,8 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-# ⚠️ ВСТАВЬ СВОЙ ТОКЕН (получи у @BotFather в Telegram)
-TOKEN = "ТВОЙ_ТОКЕН_ЗДЕСЬ"
+
+TOKEN = "ТОКЕН"
 bot = telebot.TeleBot(TOKEN)
 
 def get_weather_moscow():
