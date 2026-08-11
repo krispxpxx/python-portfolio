@@ -48,7 +48,7 @@ EDA и визуализация датасета с оценками.
 - **Telegram:** [@Derilzar](https://t.me/Derilzar)
 - **Email:** kristipolee@outlook.com
 - **GitHub:** [github.com/krispxpxx](https://github.com/krispxpxx)
-
+- **FL.ru:** [https://kwork.ru/user/kristinapolanskaa54](https://www.fl.ru/users/kristinapolanskaa54)
 ---
 
 ## 📌 Для заказчиков
