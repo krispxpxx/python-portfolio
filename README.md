@@ -41,9 +41,9 @@ EDA и визуализация датасета с оценками.
 ---
 
 ## 📬 Контакты
-- **Telegram:** [@твой_ник](https://t.me/твой_ник)
-- **Email:** твоя_почта@mail.ru
-- **GitHub:** [github.com/твой_логин](https://github.com/твой_логин)
+- **Telegram:** [@Derilzar](https://t.me/Derilzar)
+- **Email:** kristipolee@outlook.com
+- **GitHub:** [github.com/krispxpxx](https://github.com/krispxpxx)
 
 ---
 
