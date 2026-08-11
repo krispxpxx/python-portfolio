@@ -1,5 +1,9 @@
 # 🐍 Моё портфолио Python-проектов
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Активно%20развивается-brightgreen)
+![FL.ru](https://img.shields.io/badge/FL.ru-Профиль-orange)
+
 ## 👋 Обо мне
 Привет! Меня зовут **Кристина**.  
 Я студентка направления **«Искусственный интеллект и суперкомпьютеры»**.  
