@@ -25,4 +25,4 @@
 - Boxplot по предметам
 
 ## Контакты
-- Telegram: @твой_ник
+- Telegram: @Derilzar
