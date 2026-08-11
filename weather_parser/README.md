@@ -20,5 +20,5 @@
 | moscow | -5          | Облачно     |
 
 ## Контакты
-- Telegram: @твой_ник
+- Telegram: @Derilzar
 
