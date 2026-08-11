@@ -20,4 +20,4 @@
 - `/weather` — погода в Москве
 
 ## Контакты
-- Telegram: @твой_ник
+- Telegram: @Derilzar
